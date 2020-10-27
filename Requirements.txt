@@ -1,5 +1,5 @@
 asn1crypto==0.24.0
-cryptography==2.1.4
+cryptography==3.2
 Django==1.6.8
 enum34==1.1.6
 idna==2.6
